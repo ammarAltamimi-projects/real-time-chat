@@ -1,0 +1,62 @@
+[
+  {
+    "fullName": "Ahmed Nabil",
+    "email": "ahmed.nabil@example.com",
+    "password": "Ahmed@123"
+  },
+  {
+    "fullName": "Tariq Hamdi",
+    "email": "tariq.hamdi@example.com",
+    "password": "Tariq!456"
+  },
+  {
+    "fullName": "Yasser Adel",
+    "email": "yasser.adel@example.com",
+    "password": "Yasser@789"
+  },
+  {
+    "fullName": "Ali Farouq",
+    "email": "ali.farouq@example.com",
+    "password": "Ali#321"
+  },
+  {
+    "fullName": "Omar Mostafa",
+    "email": "omar.mostafa@example.com",
+    "password": "Omar@456"
+  },
+  {
+    "fullName": "Mohamed Essam",
+    "email": "mohamed.essam@example.com",
+    "password": "Mo@pass1"
+  },
+  {
+    "fullName": "Walid Sherif",
+    "email": "walid.sherif@example.com",
+    "password": "Walid@pass2"
+  },
+  {
+    "fullName": "Ibrahim Ziad",
+    "email": "ibrahim.ziad@example.com",
+    "password": "Ibra#123"
+  },
+  {
+    "fullName": "Hassan Rami",
+    "email": "hassan.rami@example.com",
+    "password": "Hassan456!"
+  },
+  {
+    "fullName": "Nader Kamal",
+    "email": "nader.kamal@example.com",
+    "password": "Nader@999"
+  },
+  {
+    "fullName": "Zaki Salem",
+    "email": "zaki.salem@example.com",
+    "password": "ZakiPass@1"
+  },
+  {
+    "fullName": "Khaled Nour",
+    "email": "khaled.nour@example.com",
+    "password": "KNour!234"
+  }
+]
