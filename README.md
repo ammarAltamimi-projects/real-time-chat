@@ -69,7 +69,7 @@ It supports user authentication, image uploads via Cloudinary, and seamless chat
 ## 🚀 Live Demo
 
 Try it now:  
-👉 [**Live Chat App on Render**](https://chat-app-riyf.onrender.com/)
+👉 [**Live Chat App on Render**](https://chat-app-chi-azure.vercel.app/)
 
 ---
 
